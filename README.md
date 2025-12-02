@@ -190,11 +190,3 @@ DELETE FROM documents;
 - Contributions: PR, issues, suggestions sont les bienvenues
 
 ---
-
-## Licence
-
-Aucune licence définie dans le dépôt — ajoutez un fichier `LICENSE` si vous souhaitez en définir une (MIT, Apache, etc.).
-
----
-
-Si vous voulez que j'ajoute un exemple `Makefile`, `Dockerfile` pour déployer l'app, un script d'init DB automatisé, ou un guide windows/mac/linux étape par étape, dites-le et je l'ajoute ✅
