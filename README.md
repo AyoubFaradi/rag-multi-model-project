@@ -184,9 +184,8 @@ DELETE FROM documents;
 
 ---
 
-## Authors & Contributions
+## Author
 
-- Auteur principal: Ayoub Faradi (présent dans l'arborescence)
-- Contributions: PR, issues, suggestions sont les bienvenues
+- Auteur : Ayoub Faradi 
 
 ---
