@@ -88,7 +88,7 @@ Projet
     │   └── PFE.pdf
     └── docker-compose.yml        # PostgreSQL + pgvector
 ```
-
+![alt text](images/image7.png)
 ---
 
 ## ⚙️ Installation & Exécution
